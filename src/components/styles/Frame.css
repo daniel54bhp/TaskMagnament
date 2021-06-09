@@ -1,0 +1,145 @@
+.comentario-contenedor{
+    background: var(--Blanco);
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 400px;
+    box-shadow: 0px 7px 15px 5px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+    padding: 20px 20px;
+    border: 50px;
+}
+.especialidad{
+    padding: 5px 20px;
+    border-radius: 25px;
+    font-size: 13px;
+}
+.comentario-centro p{
+    color: var(--Oscuro);
+    padding: 20px 0px;
+}
+.reaccionar{
+    color: var(--Plomo-oscuro);
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    font-size: 14px;
+}
+.comentario-base{
+    display: flex;
+    justify-content: space-between;
+}
+.comentario-base p{
+    margin: 5px;
+    font-size: 15px;
+}
+.comentario-base img{
+    margin: 5px;
+}
+.comentario-superior{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.comentario-centro{
+    width: 350px;
+}
+.fecha{
+    display: flex;
+}
+.comentario{
+    display: flex;
+}
+.archivar{
+    display: flex;
+}
+.fecha img{
+    width: 23px;
+    height: 23px;
+}
+.comentario img{
+    width: 23px;
+    height: 23px;
+}
+.archivar img{
+    width: 13px;
+    height: 23px;
+}
+.foto{
+    width: 30px;
+    height: 30px;
+}
+/* frame 2 */
+.bien-comentario{
+    width: 380px;
+    height: 60px;
+    display: flex;
+    padding: 20px 0px;
+}
+.bien-comentario p{
+    margin: 5px;
+}
+.bien-comentario img{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+/* frame 3 */
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    color: var(--Oscuro2);
+    font-weight: bold;
+}
+.usuario{
+    display: flex;
+    margin: 10px;
+    width: 205px;
+}
+.nombre{
+    color: var(--Oscuro);
+    font-size: 15px;
+    font-weight: bold;
+}
+.area{
+    color: var(--Plomo-oscuro);
+    font-size: 12px;
+}
+.usuario img{
+    width: 40px;
+    height: 40px;
+    padding: 0px 10px;
+}
+.usuarios{
+    display: flex;
+    flex-wrap: wrap;
+}
+.add{
+    display: flex;
+    margin: 10px;
+    width: 205px;
+    font-size: 15px;
+    font-weight: bold;
+    align-items: center;
+}
+.add img{
+    width: 20px;
+    height: 20px;
+    padding: 10px 10px;
+    border-style: dotted;
+    border-width: 2px;
+    border-radius: 25px;
+}
+.addimg{
+    padding: 0px 10px;
+}
+.usuarioadd{
+    background: var(--Blanco);
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 450px;
+    box-shadow: 0px 7px 15px 5px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+    padding: 20px 20px;
+}
